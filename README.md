@@ -30,11 +30,14 @@ care se modifică o dată la un anumit interval de timp. La click pe această im
 vizualiza un istoric al acestui animal (originile sale, hrănirea, durata de viață, 
 caracteristici și curiozități).
 
-<p align="center">
-<img src = "imagini\readme\2_1.jpg">
- <img src = "imagini\readme\2.jpg">
-</p>
-
+<div align="center">
+ <div>
+  <img src = "imagini\readme\2_1.jpg">
+ </div>
+ <div>
+   <img src = "imagini\readme\2.jpg">
+ </div>
+</div>
 La selectarea opțiunilor "Prezentare generală" sau "Informații utile" se va afișa o 
 descrie, pe scurt, a grădinii zoo, respectiv date precum tarife, program de vizite, 
 diverse hărți.
