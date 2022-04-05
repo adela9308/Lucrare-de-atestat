@@ -1,0 +1,17 @@
+E:\PARADISUL ANIMAL\PARADISUL ANIMAL\bin\Debug\Database1.sdf
+E:\PARADISUL ANIMAL\PARADISUL ANIMAL\bin\Debug\PARADISUL ANIMAL.exe.config
+E:\PARADISUL ANIMAL\PARADISUL ANIMAL\bin\Debug\PARADISUL ANIMAL.exe
+E:\PARADISUL ANIMAL\PARADISUL ANIMAL\bin\Debug\PARADISUL ANIMAL.pdb
+E:\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL ANIMAL.csprojResolveAssemblyReference.cache
+E:\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL_ANIMAL.Form1.resources
+E:\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL_ANIMAL.Properties.Resources.resources
+E:\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL ANIMAL.csproj.GenerateResource.Cache
+E:\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL ANIMAL.exe
+E:\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL ANIMAL.pdb
+G:\backup laptop new new\Atestat paradisul animal\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL ANIMAL.csproj.AssemblyReference.cache
+G:\backup laptop new new\Atestat paradisul animal\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL_ANIMAL.Form1.resources
+G:\backup laptop new new\Atestat paradisul animal\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL_ANIMAL.Properties.Resources.resources
+G:\backup laptop new new\Atestat paradisul animal\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL ANIMAL.csproj.GenerateResource.cache
+G:\backup laptop new new\Atestat paradisul animal\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL ANIMAL.csproj.CoreCompileInputs.cache
+G:\backup laptop new new\Atestat paradisul animal\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL ANIMAL.exe
+G:\backup laptop new new\Atestat paradisul animal\PARADISUL ANIMAL\PARADISUL ANIMAL\obj\x86\Debug\PARADISUL ANIMAL.pdb
