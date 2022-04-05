@@ -21,7 +21,9 @@ cum ar fi orarul de funcționare, tarife, localizarea acesteia pe Google Maps, e
 
 În momentul pornirii aplicației, se va deschide ecranul principal, în care avem 4 opțiuni 
 principale, care se regăsesc și în header-ul paginii.
-![ecran_principal](imagini\readme\1.jpg)
+<p align="center">
+<img src = "imagini\readme\1.jpg">
+</p>
 
 Tot pe ecranul principal, în partea dreaptă a acestuia se află o imagine a unui animal, 
 care se modifică o dată la un anumit interval de timp. La click pe această imagine se poate 
