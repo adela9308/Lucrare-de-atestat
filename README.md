@@ -22,7 +22,7 @@ cum ar fi orarul de funcționare, tarife, localizarea acesteia pe Google Maps, e
 În momentul pornirii aplicației, se va deschide ecranul principal, în care avem 4 opțiuni 
 principale, care se regăsesc și în header-ul paginii.
 <p align="center">
-<img src = "imagini\readme\1.jpg">
+<img src = "imagini\readme\1.jpg" height="300" width="500">
 </p>
 
 Tot pe ecranul principal, în partea dreaptă a acestuia se află o imagine a unui animal, 
@@ -30,29 +30,32 @@ care se modifică o dată la un anumit interval de timp. La click pe această im
 vizualiza un istoric al acestui animal (originile sale, hrănirea, durata de viață, 
 caracteristici și curiozități).
 
-<div align="center">
- <div>
-  <img src = "imagini\readme\2_1.jpg">
- </div>
- <div>
-   <img src = "imagini\readme\2.jpg">
- </div>
+<p>
+<div align="center" >
+        <img src="imagini\readme\2_1.jpg" height="300" width="500" style="padding:5px" />
+        <img src="imagini\readme\2.jpg" height="300" width="500" style="padding:5px"/>
 </div>
+</p>
+
 La selectarea opțiunilor "Prezentare generală" sau "Informații utile" se va afișa o 
 descrie, pe scurt, a grădinii zoo, respectiv date precum tarife, program de vizite, 
 diverse hărți.
 
-<p align="center">
-<img src = "imagini\readme\3_1.jpg">
-<img src = "imagini\readme\3_2.jpg">
+<p>
+<div align="center" >
+        <img src="imagini\readme\3_1.jpg" height="300" width="500" style="padding:5px" />
+        <img src="imagini\readme\3_2.jpg" height="300" width="500" style="padding:5px"/>
+</div>
 </p>
 
 La alegerea opțiunii “Animalele din Paradisul Animal” se deschide un nou ecran din care poți selecta 
 categoria, urmat de specia și subspecia animalului dorit, sau poți căuta direct din bara de search.
 
-<p align="center">
-<img src = "imagini\readme\4_1.jpg">
-<img src = "imagini\readme\4_2.jpg">
+<p>
+<div align="center" >
+        <img src="imagini\readme\4_1.jpg" height="300" width="500" style="padding:5px" />
+        <img src="imagini\readme\4_2.jpg" height="300" width="250" style="padding:5px"/>
+</div>
 </p>
 
 Dacă din pagina principală alegem opțiunea “Opinia vizitatorilor”, se va deschide o nouă pagină în 
@@ -61,6 +64,5 @@ acordarea unor steluțe. În același ecran, se poate vizualiza și părerea cel
 dar și o statistică a steluțelor.
 
 <p align="center">
-<img src = "imagini\readme\5.jpg">
+<img src = "imagini\readme\5.jpg" height="300" width="500">
 </p>
-
