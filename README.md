@@ -5,17 +5,17 @@ Utiizatorului îi este oferită șansa de a vizualiza fiecare tip de animal în 
 cadrul grădinii, sa lase un feedback, sau să găsească informații administrative utile, 
 cum ar fi orarul de funcționare, tarife, localizarea acesteia pe Google Maps, etc.
 
+## Tehnologii
+
+- Limbaj de programare: C# 
+- Bază de date: SQL server
+
 ## Funcționalități
 
 - Vizualizarea tuturor animalelor existente în cadrul grădinii zoo + informații relevante despre acestea.
 - Oferirea de feedback prin steluțe și/sau printr-un mesaj
 - Vizualizarea opiniilor lăsate de alți utilizatori
 - Vizualizarea de raporturi în legătură cu steluțele primite
-
-## Tehnologii
-
-- Limbaj de programare: C# 
-- Bază de date: SQL server
 
 ## DEMO al aplicației
 
