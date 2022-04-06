@@ -1,7 +1,7 @@
 # _Paradisul Animal - Lucrare de atestat_
 
 Proiectul reprezintă "cartea de vizită" (și nu numai) a grădinii zoologice _Paradisul animal_.
-Utiizatorului îi este oferită șansa de a vizualiza fiecare tip de animal în parte din 
+Utilizatorului îi este oferită șansa de a vizualiza fiecare tip de animal în parte din 
 cadrul grădinii, sa lase un feedback, sau să găsească informații administrative utile, 
 cum ar fi orarul de funcționare, tarife, localizarea acesteia pe Google Maps, etc.
 
