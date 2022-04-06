@@ -32,8 +32,8 @@ caracteristici și curiozități).
 
 <p>
 <div align="center" >
-        <img src="imagini\readme\2_1.jpg" height="300" width="500" style="padding:5px" />
-        <img src="imagini\readme\2.jpg" height="300" width="500" style="padding:5px"/>
+        <img src="imagini\readme\2_1.jpg" height="200" width="400" style="padding:5px" />
+        <img src="imagini\readme\2.jpg" height="200" width="400" style="padding:5px"/>
 </div>
 </p>
 
